@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LOL-CPU (David)
 - 👀 I’m interested in programming, 3d printing and electronics...
 - 🌱 I’m currently learning write on the c# and c++
-- 💞️ I’m looking to collaborate on a game and other differnt project;
+- 💞️ I’m looking to collaborate on a indie game  and other differnt project;
 - 📫 I locate in the Russian federation 
 
 <!---
